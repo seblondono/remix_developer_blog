@@ -141,6 +141,9 @@ function Layout({ children }: { children: React.ReactNode }) {
               <li>
                 <a href="https://github.com/remix-run/remix">GitHub</a>
               </li>
+              <li>
+                <a href="/admin">Admin</a>
+              </li>
             </ul>
           </nav>
         </div>
